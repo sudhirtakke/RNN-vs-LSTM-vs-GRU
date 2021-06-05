@@ -2,7 +2,7 @@
 Difference between SimpleRNN, LSTM and GRU
 
 
-##Problem Description
+## Problem Description
 
 Classifying movie reviews: a binary classification example. Two-class classification, or binary classification, may be the most widely applied kind of machine-learning problem.
 
